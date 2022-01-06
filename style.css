@@ -58,6 +58,12 @@ section{
     height: 250px;
     padding: 50px 5px;
 }
+.pic4{
+    width: 300;
+    height: 300px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
 .ass1{
     color: rgb(184, 157, 9);
 }
@@ -88,4 +94,8 @@ section{
     margin-left: 375px;
     padding-top: 30px;
     padding-bottom: 20px;
+}
+.miss4{
+    padding-top: 80px;
+    width: 600px;
 }
