@@ -71,6 +71,7 @@ section{
 }
 .ass1{
     color: rgb(184, 157, 9);
+    
 }
 .ass2{
     text-decoration: none;
@@ -111,8 +112,9 @@ section{
     width: 600px;
 }
 .miss5{
+    
     margin-left: 300px;
-    padding-top: 50px;
+    padding-top: 5px;
     padding-left: 50px;
 }
 #last-part{
@@ -125,4 +127,7 @@ section{
 #last2{
     text-align: center;
     padding-bottom: 30px;
+}
+.yellow1{
+    color: rgb(184, 157, 9);
 }
