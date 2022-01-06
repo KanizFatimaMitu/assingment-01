@@ -64,6 +64,11 @@ section{
     padding-left: 30px;
     padding-top: 30px;
 }
+.pic5{
+    width: 300px;
+    height: 500px;
+    margin-left: 100px;
+}
 .ass1{
     color: rgb(184, 157, 9);
 }
@@ -80,6 +85,12 @@ section{
     background-color: rgb(110, 8, 8);
     padding: 10px 10px;
     border-radius: 8px;
+}
+.ass4{
+    width: 500px;
+    padding-left: 80px;
+    padding-top: 50px;
+
 }
 .miss1{
     width: 300px;
@@ -98,4 +109,20 @@ section{
 .miss4{
     padding-top: 80px;
     width: 600px;
+}
+.miss5{
+    margin-left: 300px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+#last-part{
+    background-color: rgb(110, 8, 8);
+}
+#last1{
+    text-align: center;
+    padding-top: 30px;
+}
+#last2{
+    text-align: center;
+    padding-bottom: 30px;
 }
