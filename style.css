@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(252, 228, 193);
+}
+#decor1{
+    border-left: 5px solid;
+    border-color: rgb(110, 8, 8);
+    padding: 0px 20px;
+}
+.ass1{
+    color: rgb(184, 157, 9);
+}
+section{
+    display: flex;
+}
+.pic1{
+    height: 300px;
+    width: 300px;
+}
+.miss1{
+    width: 300px;
+    padding-right: 100px;
+    padding-left: 50px;
+}
+.miss2{
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.ass2{
+    text-decoration: none;
+    color: rgb(252, 228, 193);
+    background-color: rgb(110, 8, 8);
+    padding: 10px 10px;
+    border-radius: 8px;
+}
